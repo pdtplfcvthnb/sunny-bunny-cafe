@@ -1,0 +1,51 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Android
+android/app/src/main/java/io/flutter/plugins/
+android/local.properties
+android/.gradle
+android/app/.classpath
+android/app/.project
+
+# iOS
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Podfile.lock
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Windows
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+
+# Web
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Firebase
+firebase_options.dart
+
+# Backend
+backend/pubspec.lock
+backend/.dart_tool/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
