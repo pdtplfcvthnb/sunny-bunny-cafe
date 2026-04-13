@@ -10,7 +10,7 @@
 - Dart 3.11.4+
 - Firebase проект (Auth + Firestore)
 ### Запуск бэкенда
-cd backend
+cd backend /n
 dart pub get
 dart run bin/server.dart
 
